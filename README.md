@@ -6,3 +6,4 @@ The repo for praciticing github flow
 Folder
 
 # Branch
+Create New branch using above main brach icon 
